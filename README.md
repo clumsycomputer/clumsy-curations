@@ -1,4 +1,4 @@
-### music albums
+### musical releases
 
 - IC-01 Hanoi, Unknown Mortal Orchestra, [youtube](https://www.youtube.com/watch?v=pvkk7REuV1E&list=PL9FOcjmiWH2MqVJ2TImGlXAY0JRZad5Dg)
 - Blacklisted, Skepta, [youtube](https://www.youtube.com/watch?v=FyH-QuLSEcM&list=PLQdsRSHY8U5F7BSlCN34lymVrr-cBL5ZX)
@@ -95,8 +95,98 @@
 - todo, Shabazz Palaces, [youtube](todo)
 - todo, Amon Tobin, [youtube](todo)
 - todo, Bibio, [youtube](todo)
+- todo, Natureboy Flako, [youtube](todo)
+- todo, DJ Koze, [youtube](todo)
+- todo, Paul White, [youtube](todo)
+- todo, Eliot Lipp, [youtube](todo)
+- todo, Paper Diamond, [youtube](todo)
+- todo, Hercules & Love Affair, [youtube](todo)
+- todo, The 2 Bears, [youtube](todo)
+- todo, STS-9, [youtube](todo)
+- todo, Outkast, [youtube](todo)
+- todo, Orville Peck, [youtube](todo)
+- todo, Dire Straits, [youtube](todo)
+- todo, Igor Stravinksy, [youtube](todo)
+- todo, Dave Matthews Band, [youtube](todo)
+- todo, Parcels, [youtube](todo)
+- todo, Spillage Village, [youtube](todo)
+- todo, Trampled by Turtles, [youtube](todo)
+- todo, Hudson Mohawke, [youtube](todo)
+- todo, Deadmau5, [youtube](todo)
+- todo, Mia Doi Todd, [youtube](todo)
+- todo, Kaytranada, [youtube](todo)
+- todo, Royksopp, [youtube](todo)
+- todo, The Wood Brothers, [youtube](todo)
+- todo, The Doors, [youtube](todo)
+- todo, Yonder Mountain String Band, [youtube](todo)
+- todo, Boombox, [youtube](todo)
+- todo, Atmosphere, [youtube](todo)
+- todo, Danny Brown, [youtube](todo)
+- todo, The Avalanches, [youtube](todo)
+- todo, Wiki, [youtube](todo)
+- todo, Benny Sings, [youtube](todo)
+- todo, Whomadewho, [youtube](todo)
+- todo, Mount Kimbie, [youtube](todo)
+- todo, Anderson .Paak, [youtube](todo)
+- todo, Brent Faiyaz, [youtube](todo)
+- todo, Justice, [youtube](todo)
+- todo, Labrynth, [youtube](todo)
+- todo, The Comet is Coming, [youtube](todo)
+- todo, Electric Guest, [youtube](todo)
+- todo, FKJ, [youtube](todo)
+- todo, Slaves, [youtube](todo)
+- todo, sza, [youtube](todo)
+- todo, kali uchis, [youtube](todo)
+- todo, dixie chicks, [youtube](todo)
+- todo, calvin harris, [youtube](todo)
+- todo, travis scott, [youtube](todo)
+- todo, the weeknd, [youtube](todo)
+- todo, bruno mars, [youtube](todo)
+- todo, kacey musgraves, [youtube](todo)
+- todo, regina spektor, [youtube](todo)
+- todo, fiona apple, [youtube](todo)
+- todo, the flight of the conchords, [youtube](todo)
+- todo, system of a down, [youtube](todo)
+- todo, kid cudi, [youtube](todo)
+- todo, yves tumor, [youtube](todo)
+- todo, serpentwithfeet, [youtube](todo)
+- todo, allan rayman, [youtube](todo)
+- todo, jungle, [youtube](todo)
+- todo, tears for fears, [youtube](todo)
+- todo, dark time sunshine, [youtube](todo)
+- todo, lil wayne, [youtube](todo)
+- todo, teebs, [youtube](todo)
+- todo, jonti, [youtube](todo)
 
-### technical resources
+### mixes
+
+todo
+
+### live music
+
+todo
+
+### music artist
+
+todo
+
+### visual artist
+
+todo
+
+### software
+
+todo
+
+### javascript packages
+
+todo
+
+### blog posts
+
+todo
+
+### math resources
 
 - [The Euclidean Algorithm Generates Traditional Musical Rhythms](http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf)
 

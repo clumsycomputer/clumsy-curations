@@ -137,7 +137,6 @@
 - Synchronicity, WhoMadeWho, [youtube](https://m.youtube.com/watch?v=C5w3Kf8AH-c&list=OLAK5uy_ld_sn54tu8SauZbwd1nE1l2B5GhTfgbwU&index=4)
 - Rapping With Paul White, Paul White, [youtube](https://m.youtube.com/watch?v=XTtOk6BImqQ&list=OLAK5uy_mroNrdkshox8Z-S9hPN07kQMT6rDhDr3I&index=2)
 - Cloak, Jordan Rakei, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_lpWWJEDKyxBhoJDIj4Jqvn9TtMWQUKgPc&playnext=1&index=1)
-- Musical Chairs Mixtape, ZHU, [youtube](https://m.youtube.com/watch?v=AZ7LHwjw24g)
 - AT.LONG.LAST.A$AP, A$AP Rocky, [youtube](todhttps://m.youtube.com/playlist?list=OLAK5uy_lxm0peSOF6ByBd2HG17L-x5Zdb_79s9nw&playnext=1&index=1o)
 - Venice, Anderson .Paak, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_nYpZoi3hg25_9e8P4gpfcBSDjyiwSHfJo&playnext=1&index=1)
 - Mezzanine, Massive Attack, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_k2Qyv7jShU8WuWSBxfK5r20PZrwb81TPY&playnext=1&index=1)
@@ -151,16 +150,11 @@
 - The Far Field, Future Islands, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_ng4N3XsgdNZashXG2Xl07KP59F_PFc72g&playnext=1&index=1)
 - Vessel, Dark Time Sunshine, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_nONiI2a5lpPDGumAffOa88XcuZpMrZRs0&playnext=1&index=1)
 - Cross, Justice, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_mUH9mXeJdOroDCgBIUlj5EIkI2dnl77bo&playnext=1&index=1)
--
-- todo, alt-J, [youtube](todo)
-- todo, Justice, [youtube](todo)
-- todo, Bon Iver, [youtube](todo)
-- todo, Tycho, [youtube](todo)
-- todo, Bonobo, [youtube](todo)
-- todo, Boards of Canada, [youtube](todo)
-- todo, the weeknd, [youtube](todo)
-- todo, system of a down, [youtube](todo)
-- todo, lil wayne, [youtube](todo)
+- Dive, Tycho, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_lkCgIijL5sMC8ks-r6oAlOJXDZMt8mUQI&playnext=1&index=1)
+- This Is All Yours, alt-J, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_k0ZBPQh_nb1yaxillHshHa80jdM2Q96t0&playnext=1&index=1)
+- 22, A Million , Bon Iver, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_nwQaP_wXtJiNSkfmaUkQYxY7RztNFtLIU&playnext=1&index=1)
+- Fragments, Bonobo, [youtube](https://m.youtube.com/playlist?list=OLAK5uy_l01lp9GD95yFBKhB6kVU0RckwwbF_nC0A&playnext=1&index=1)
+- Tomorrow's Harvest, Boards of Canada, [youtube](https://m.youtube.com/watch?v=yZQluCiQWUk&list=OLAK5uy_kj-NXH-Dp19sAf08Q04Zkn-bWXMUb-_hk&index=8)
 
 ### mixes
 
